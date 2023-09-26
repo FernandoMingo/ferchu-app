@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <code>Ferchu App</code>
+          <p>Demo react app</p>
           <MyThing />
         </p>
         <a
