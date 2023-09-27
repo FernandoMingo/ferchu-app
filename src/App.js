@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import './Portfolio.html'
 import WebContent from './Portfolio.js';
+import './Pportfolio.css'
 function App() {
   return (
     <div className="App">
