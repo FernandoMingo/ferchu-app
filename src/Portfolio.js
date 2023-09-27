@@ -9,7 +9,7 @@ function WebContent() {
       <link rel="stylesheet" href="Pportfolio.css" />
       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" />
       <header className="header">
-        <p>Fernando Mingo, web developer</p>
+        <p>Fernando Mingo, developer</p>
         <nav id="navbar">
           <ul>
             <li><a href="#About">About</a></li>
@@ -20,7 +20,7 @@ function WebContent() {
       </header>
       <section id="About">
         <h1>I am Fernando Mingo</h1>
-        <p><em>a web developer</em></p>
+        <p><em>a developer</em></p>
       </section>
       <section id="Work">
         <h1>These are some of my projects</h1>
