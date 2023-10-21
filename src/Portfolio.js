@@ -50,7 +50,7 @@ function WebContent() {
             <p>Tic Tac Toe*</p>
           </a>
         </div>
-        <a href="https://www.freecodecamp.org/FernandoMingo" target="_blank" className="show-all">Show all&gt;</a>
+        <a href="https://github.com/FernandoMingo" target="_blank" className="show-all">Show all&gt;</a>
       </section>
       <section id="Contact">
         <h1>If you want to work with me...</h1>
