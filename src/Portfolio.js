@@ -27,10 +27,10 @@ function WebContent() {
         <div className="project-tile">
           <a href="https://codepen.io/freeCodeCamp/full/zNqgVx" target="_blank">
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="project Tribute Page" />
-            <p>Tribute Page</p>
+            <p>Ensayo IA</p>
           </a>
           <a href="Ensayo_IA.html" target="_blank">
-            <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png" alt="project Random Quote machine" />
+            <img className="project-img" src="https://store-images.s-microsoft.com/image/apps.45806.14197312115402585.1d94f203-6b04-4273-802d-33e85d3a3fe9.acc74b7d-a11f-48ef-8c9b-aba9db58b6f1" alt="project Random Quote machine" />
             <p>Random Quote Machine</p>
           </a>
           <a href="https://codepen.io/freeCodeCamp/full/wgGVVX" target="_blank">
