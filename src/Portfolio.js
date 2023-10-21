@@ -29,7 +29,7 @@ function WebContent() {
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="project Tribute Page" />
             <p>Tribute Page</p>
           </a>
-          <a href="https://codepen.io/freeCodeCamp/full/qRZeGZ" target="_blank">
+          <a href="Ensayo_IA.html" target="_blank">
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png" alt="project Random Quote machine" />
             <p>Random Quote Machine</p>
           </a>
