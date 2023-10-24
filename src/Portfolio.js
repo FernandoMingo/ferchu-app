@@ -56,14 +56,17 @@ function WebContent() {
         <h1>If you want to work with me...</h1>
         <p><em>do not hesitate to contact me</em></p>
         <div className="social-icons">
+        <a id="profile-link" target="_blank" href="mailto:mingomorenof@gmail.com">
+          <i className="fab fa-google" /> Gmail
+        </a>
+        <a id="profile-link" target="_blank" href="https://github.com/FernandoMingo">
+            <i className="fab fa-github" /> Github
+          </a>
           <a id="profile-link" target="_blank" href="https://instagram.com/ferchumingo">
             <i className="fab fa-instagram" /> Instagram
           </a>
           <a id="profile-link" target="_blank" href="https://www.freecodecamp.org/FernandoMingo">
             <i className="fab fa-free-code-camp" /> freeCodeCamp
-          </a>
-          <a id="profile-link" target="_blank" href="https://github.com/FernandoMingo">
-            <i className="fab fa-github" /> Github
           </a>
         </div>
         <hr />
