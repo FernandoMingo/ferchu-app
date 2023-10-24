@@ -35,19 +35,19 @@ function WebContent() {
           </a>
           <a href="https://codepen.io/freeCodeCamp/full/wgGVVX" target="_blank">
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png" alt="project Calculator" />
-            <p>Calculator*</p>
+            <p>Calculator</p>
           </a>
           <a href="https://codepen.io/freeCodeCamp/full/mVEJag" target="_blank">
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg" alt="project Map Data" />
-            <p>Map Data*</p>
+            <p>Map Data</p>
           </a>
           <a href="https://codepen.io/freeCodeCamp/full/wGqEga" target="_blank">
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png" alt="project Wiki Viewer" />
-            <p>Wiki Viewer*</p>
+            <p>Wiki Viewer</p>
           </a>
           <a href="https://codepen.io/freeCodeCamp/full/KzXQgy" target="_blank">
             <img className="project-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png" alt="project Tic Tac Toe" />
-            <p>Tic Tac Toe*</p>
+            <p>Tic Tac Toe</p>
           </a>
         </div>
         <a href="https://github.com/FernandoMingo" target="_blank" className="show-all">Show all&gt;</a>
@@ -67,7 +67,7 @@ function WebContent() {
           </a>
         </div>
         <hr />
-        <p className="disclaimer">Projects with an * have not been made by me</p>
+        <p className="disclaimer">This portfolio is fake, and the projects are not mine</p>
       </section>
     </div>
   );
