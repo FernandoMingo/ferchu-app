@@ -96,7 +96,7 @@
   
   #Work {
     width: 100%;
-
+    position: fixed;
     background-color: var(--blue);
     display: flex;
     flex-direction: column;
@@ -169,6 +169,7 @@
   }
   
   #Contact {
+    position: fixed;
     display: flex;
     flex-direction: column;
     justify-content: center;
