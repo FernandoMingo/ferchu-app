@@ -1,6 +1,6 @@
 import './App.js'
 import './Pportfolio.css'
-import Ensayo from './Ensayo_IA.js'
+
 function WebContent() {
   return (
     <div>
