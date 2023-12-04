@@ -1,5 +1,6 @@
 import './App.js'
 import './Pportfolio.css'
+import Ensayo from './Ensayo_IA.js'
 function WebContent() {
   return (
     <div>
@@ -25,7 +26,7 @@ function WebContent() {
       <section id="Work">
         <h1>These are some of my projects</h1>
         <div className="project-tile">
-          <a href="Ensayo_IA.html" target="_blank">
+          <a href="./Ensayo_IA.html" target="_blank">
             <img className="project-img" src="https://store-images.s-microsoft.com/image/apps.45806.14197312115402585.1d94f203-6b04-4273-802d-33e85d3a3fe9.acc74b7d-a11f-48ef-8c9b-aba9db58b6f1" alt="AI essay" />
             <p>Ensayo IA</p>
           </a>

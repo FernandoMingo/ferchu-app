@@ -1,11 +1,10 @@
-import WebContent from './Portfolio'
-import './App.css';
+import WebContent from "./Portfolio"
+import "./App.css"
 function App() {
-  return (
-    <div className="App">
-      <WebContent />
-    </div>
-  );
+    return (
+        <div>
+            <WebContent />
+        </div>
+    );    
 }
-
-export default App;
+export default App
